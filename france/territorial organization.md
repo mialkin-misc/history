@@ -1,6 +1,11 @@
-# Organisation territoriale de la France
+# Административное деление Франции — Organisation territoriale de la France
 
-- [Organisation territoriale de la France](#organisation-territoriale-de-la-france)
+> [↑ Статья](https://fr.wikipedia.org/wiki/Organisation_territoriale_de_la_France) на Википедии
+
+## Содержание
+
+- [Административное деление Франции — Organisation territoriale de la France](#административное-деление-франции--organisation-territoriale-de-la-france)
+  - [Содержание](#содержание)
   - [Les 18 régions françaises](#les-18-régions-françaises)
   - [Département](#département)
   - [Arrondissement](#arrondissement)

@@ -20,5 +20,5 @@
     - РСФСР(1922—1991).
   - [Российская Федерация (с 1991)](russia/russian%20federation/russian%20federation.md)
 - [Франция](france/france.md)
-  - [Organisation territoriale de la France](france/territorial%20organization.md)
-  - [Système éducatif en France](france/french%20education%20system.md)
+  - [Административное деление Франции](france/territorial%20organization.md)
+  - [Система образования Франции](france/french%20education%20system.md)

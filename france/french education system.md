@@ -1,4 +1,4 @@
-# Système éducatif en France
+# Система образования Франции — Système éducatif en France
 
 Enseignement primaire ⟶ enseignement secondaire ⟶ enseignement supérieur.
 
